@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "egg"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "tomato"
+    },
+    {
+      "0": {
+        "id": 3,
+        "checked": false,
+        "item": "cheese"
+      },
+      "id": 3,
+      "checked": false,
+      "item": "cheese"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Milk"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "apple"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "candy"
+    }
+  ]
+}
